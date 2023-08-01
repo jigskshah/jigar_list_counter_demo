@@ -1,4 +1,4 @@
-# list_widget_demo
+# Jigar List Counter Demo
 
 A new Flutter project.
 
